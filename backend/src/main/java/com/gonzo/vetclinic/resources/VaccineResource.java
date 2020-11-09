@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.gonzo.vetclinic.entities.Vaccine;
+import com.gonzo.vetclinic.dto.VaccineDTO;
 import com.gonzo.vetclinic.services.VaccineService;
 
 @RestController
@@ -19,8 +19,8 @@ public class VaccineResource {
 	private VaccineService service;
 	
 	@GetMapping
-	public ResponseEntity<List<Vaccine>> findAll(){
-		List<Vaccine> list = service.findAll();
+	public ResponseEntity<List<VaccineDTO>> findAll(){
+		List<VaccineDTO> list = service.findAll();
 		return ResponseEntity.ok().body(list);
 	}
 
