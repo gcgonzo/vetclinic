@@ -12,3 +12,5 @@ O principais itens criados são:<br/>
   3. **Atendimentos**
   4. **Criação de senha**
   5. **Validação dos campos**
+  
+  Adiconado um página como teste de estudo.
