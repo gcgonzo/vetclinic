@@ -14,5 +14,6 @@ O principais itens criados são:<br/>
   5. **Validação dos campos**
   
   Este programa ainda está em construção. As Informações acima
-  são as pretensões para este programa.
-  **Última atualização**: 18/11/2020.
+  são as pretensões para este projeto.
+ 
+ **Última atualização**: 18/11/2020.
