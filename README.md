@@ -13,4 +13,6 @@ O principais itens criados são:<br/>
   4. **Criação de senha**
   5. **Validação dos campos**
   
-  Adicionado um página como teste de estudo.
+  Este programa ainda está em construção. As Informações acima
+  são as pretensões para este programa.
+  **Última atualização**: 18/11/2020.
